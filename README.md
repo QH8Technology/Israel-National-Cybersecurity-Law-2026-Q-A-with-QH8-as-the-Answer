@@ -238,3 +238,31 @@ However, deployment of QH8 does not yet by itself guarantee regulatory complianc
 Contact
 QH8 Technologies
 Email: contact@qh8technologies.com
+
+---
+
+## 🌐 Global Technical Library & Related Infrastructure Documentation
+
+This repository focuses on operational documentation and infrastructure monitoring relevant to the **Israel National Cybersecurity Law 2026**.
+
+For additional technical frameworks, regional infrastructure governance references, and operational monitoring practices, see the following related QH8 repositories:
+
+• **Core Infrastructure Telemetry Framework**  
+https://github.com/QH8Technology/qh8-infrastructure-optimization  
+Technical foundation describing infrastructure telemetry analysis, electrical load behavior, and operational evidence generation.
+
+• **Texas Infrastructure, Energy & Cybersecurity Q&A**  
+https://github.com/QH8Technology/texas-infrastructure-energy-cybersecurity-qa-2026  
+Operational monitoring practices relevant to ERCOT grid environments and high-density data center infrastructure.
+
+• **North Carolina Energy & Data Center Compliance 2026**  
+https://github.com/QH8Technology/-NORTH-CAROLINA-ENERGY-DATA-CENTER-COMPLIANCE-2026  
+Infrastructure monitoring and operational transparency for commercial buildings and electrified facilities.
+
+• **Georgia Infrastructure, Energy & Cybersecurity Q&A**  
+https://github.com/QH8Technology/Georgia-State-Infrastructure-Energy-Cybersecurity-2026-Q-A  
+Infrastructure telemetry use cases covering EV charging networks, healthcare facilities, and commercial infrastructure.
+
+• **QH8 Technologies Official Website**  
+https://qh8technologies.com  
+Infrastructure telemetry platform and operational documentation framework.
